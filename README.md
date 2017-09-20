@@ -3,7 +3,7 @@
 | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Website](http://www.glab.gr) |
 | ------- | ------- | ------- | ------- |
 
-***
+
 
 I am a former Computer Science teacher and 360o Digital Marketer. Combining a strategic and analytical mind, with a big smile and a positive attitude, I decided to pursue the closest we have to superpowers, and create awesome stuff made out of code, as a professional software engineer this time. 
 
