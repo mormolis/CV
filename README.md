@@ -9,7 +9,7 @@ I am a former Computer Science teacher and 360o Digital Marketer. Combining a st
 
 Having worked with people and machines for the past 6 years, I had the opportunity to develop a balanced relationship with both aspect of a developer's life. 
 
-I am always curious about technology and life and in my free time [I create photographs](https://flickr.com/users/mormolis), play the guitar and sing (out of tune most of the time).
+I am always curious about technology and life and in my free time [I create photographs](https://www.flickr.com/photos/mormolis/albums/), play the guitar and sing (out of tune most of the time).
 
 I believe that actions are way more valuable than words therefore [my code will speak for itself](https://github.com/mormolis) ;)   
 
