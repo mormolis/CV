@@ -1,5 +1,10 @@
 # Georgios Lamprakis
 
+| [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Website](http://www.glab.gr) |
+| ------- | ------- | ------- | ------- |
+
+***
+
 I am a former Computer Science teacher and 360o Digital Marketer. Combining a strategic and analytical mind, with a big smile and a positive attitude, I decided to pursue the closest we have to superpowers, and create awesome stuff made out of code, as a professional software engineer this time. 
 
 Having worked with people and machines for the past 6 years, I had the opportunity to develop a balanced relationship with both aspect of a developer's life. 
@@ -8,9 +13,7 @@ I am always curious about technology and life and in my free time [I create phot
 
 I believe that actions are way more valuable than words therefore [my code will speak for its self](https://github.com/mormolis) ;)   
 
-
-| [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Website](http://www.glab.gr) |
-| ------- | ------- | ------- | ------- |
+***
 
 ## Projects
 
@@ -49,7 +52,7 @@ Features:
  - holds a database of each University's minimum requirement and decides whether a candidate is eligible or not
  - showing available University options according to each candidate's total credits 
 
-
+***
 ## Experience
 
 
@@ -121,6 +124,8 @@ Greece** (02/2011 – 08/2012)
  - Remote supporting client companies and troubleshooting ensuring that their
 sensitive data are protected
  - Creating websites for the company's needs using JOOMLA CSM
+
+***
 
 ## Education
 
