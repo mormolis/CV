@@ -11,7 +11,7 @@ Having worked with people and machines for the past 6 years, I had the opportuni
 
 I am always curious about technology and life and in my free time [I create photographs](https://flickr.com/users/mormolis), play the guitar and sing (out of tune most of the time).
 
-I believe that actions are way more valuable than words therefore [my code will speak for its self](https://github.com/mormolis) ;)   
+I believe that actions are way more valuable than words therefore [my code will speak for itself](https://github.com/mormolis) ;)   
 
 ***
 
