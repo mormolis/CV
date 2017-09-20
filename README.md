@@ -51,6 +51,12 @@ Features:
  - support for different types of schools 
  - holds a database of each University's minimum requirement and decides whether a candidate is eligible or not
  - showing available University options according to each candidate's total credits 
+ 
+ Technologies used:
+
+ - Java
+ - Android SDK
+ - Grandle
 
 ***
 ## Experience
