@@ -128,7 +128,7 @@ sensitive data are protected
 ***
 
 ## Education
-**3 Months Intensive Coding Bootcamp**, Makers Academy - London, UK - Graduation December 2017
+**3 Months Intensive Coding Bootcamp**, Makers Academy - London UK,  Graduation December 2017
  - Object Oriented Design and Programming 
  - Agile Development
  - Test Driven Development
