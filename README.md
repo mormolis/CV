@@ -8,13 +8,15 @@ I am always curious about technology and life and in my free time [I create phot
 
 I believe that actions are way more valuable than words therefore [my code will speak for its self](https://github.com/mormolis) ;)   
 
-* * * 
+
 | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Website](http://www.glab.gr) |
 | ------- | ------- | ------- | ------- |
-* * *
-##Projects
+
+## Projects
+
 -to be filled 
-####Car Rental Administration System (2015)
+
+#### Car Rental Administration System (2015)
 
 A web application for managing car rentals. 
 
@@ -28,6 +30,7 @@ Allowing the administrator
 
 
 Technologies used:
+
  - PHP
  - MySQL
  - HTML
@@ -36,7 +39,8 @@ Technologies used:
 
 
 
-####Credit Calculator for the Greek National Exams (2016)
+#### Credit Calculator for the Greek National Exams (2016)
+
  An android app for calculating the final exam credits using the algorithm provided by the Greek Ministry of education.
 
 Features:
@@ -46,7 +50,7 @@ Features:
  - showing available University options according to each candidate's total credits 
 
 
-##Experience
+## Experience
 
 
 **Computer Science / ICT Teacher - City of London Academy Southwark** (01/2017 - 07/2017)
@@ -118,7 +122,7 @@ Greece** (02/2011 – 08/2012)
 sensitive data are protected
  - Creating websites for the company's needs using JOOMLA CSM
 
-##Education
+## Education
 
 **Computer Science and Technology BSc**, University of Peloponnese, Greece
 (4 Year degree).  - Graduation Year 2011
