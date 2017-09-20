@@ -128,6 +128,11 @@ sensitive data are protected
 ***
 
 ## Education
+**3 Months Intensive Coding Bootcamp**, Makers Academy - London, UK - Graduation December 2017
+ - Object Oriented Design and Programming 
+ - Agile Development
+ - Test Driven Development
+ - Pair Programming 
 
 **Computer Science and Technology BSc**, University of Peloponnese, Greece
 (4 Year degree).  - Graduation Year 2011
