@@ -91,7 +91,7 @@ Features:
 
 *By:*
 
- - Managing the companies social media accounts
+ - Managing the company's social media accounts
  - Setting up on-line marketing strategy
  - Creating PPC campaigns on various platforms
  - Managing budget 
