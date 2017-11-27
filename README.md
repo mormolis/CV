@@ -1,62 +1,23 @@
 # Georgios Lamprakis
 
-| [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Website](http://www.glab.gr) |
-| ------- | ------- | ------- | ------- |
+| [Projects](#projects) | [Experience](#experience) | [Education](#education) | [LinkedIn](https://www.linkedin.com/in/georgelamprakis/) |
 
 
+I am a Junior full stack developer, looking for a role where I can extend my coding skills and contribute to this world becoming a better place. After graduating from University of Peloponnese's Computer Science department I worked as a Computer Science teacher and 360o Digital Marketer. 
+In 2017, I decided to learn more about good programming practices in agile environments and join Maker's Academy, a 4 months coding bootcamp focusing on learning how to learn, TDD development and XP values.
 
-I am a former Computer Science teacher and 360o Digital Marketer. Combining a strategic and analytical mind, with a big smile and a positive attitude, I decided to pursue the closest we have to superpowers, and create awesome stuff made out of code, as a professional software engineer this time. 
-
-Having worked with people and machines for the past 6 years, I had the opportunity to develop a balanced relationship with both aspect of a developer's life. 
-
-I am always curious about technology and life and in my free time [I create photographs](https://www.flickr.com/photos/mormolis/albums/), play the guitar and sing (out of tune most of the time).
-
-I believe that actions are way more valuable than words therefore [my code will speak for itself](https://github.com/mormolis) ;)   
-
+Curious about technology and life, in my free time [I create photographs](https://www.flickr.com/photos/mormolis/albums/), play the guitar and learn new things.
+   
 ***
 
 ## Projects
 
--to be filled 
-
-#### Car Rental Administration System (2015)
-
-A web application for managing car rentals. 
-
-Allowing the administrator 
- - to log in and manage/edit car rental pickups and dropoffs 
- - calculating commissions to agencies reps
- - print detailed reports for commissions based on rentals and given time spans
- - maintain a client database with rental history and personal details
- - gross reports on given time spans
- - graphical representation of car pickups and dropoffs for given time spans 
-
-
-Technologies used:
-
- - PHP
- - MySQL
- - HTML
- - CSS
- - jQuery
-
-
-
-#### Credit Calculator for the Greek National Exams (2016)
-
- An android app for calculating the final exam credits using the algorithm provided by the Greek Ministry of education.
-
-Features:
- - given each subject's exam grades calculates the total credits 
- - support for different types of schools 
- - holds a database of each University's minimum requirement and decides whether a candidate is eligible or not
- - showing available University options according to each candidate's total credits 
- 
- Technologies used:
-
- - Java
- - Android SDK
- - Grandle
+| Project | Description | Technologies | Time |
+|--------|--------|--------|--------|
+|Car Rental Administration System (2015)| A web application for managing car rentals | PHP, MySQL, HTML, CSS, JQuery| 2 weeks |
+|Credit Calculator for the Greek National Exams (2016) |  An android app for calculating the final exam credits and Univercities availability using the algorithm provided by the Greek Ministry of education. | Java, Android SDK, Grandle | 4 days |
+| [Twitter Clone](https://github.com/mormolis/chitter-challenge) | A weekend coding challenge at Maker's Academy | Ruby, Sinatra, postgSQL RSpec, Capybara| 2 days |
+| [Instagram Clone](https://github.com/mormolis/instagram-challenge) | A weekend coding challenge at Maker's Academy | Ruby, Ruby on Rails, postgSQL| 2 days |
 
 ***
 ## Experience
@@ -134,8 +95,8 @@ sensitive data are protected
 ***
 
 ## Education
-**3 Months Intensive Coding Bootcamp**, Makers Academy - London UK,  Graduation December 2017
- - Object Oriented Design and Programming 
+**4 Months Intensive Coding Bootcamp**, Makers Academy - London UK,  Graduation December 2017
+ - Object Oriented Design
  - Agile Development
  - Test Driven Development
  - Pair Programming 
