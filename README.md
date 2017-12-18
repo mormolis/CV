@@ -78,7 +78,7 @@ wanted to attend the National Exams and enter University
 
 
  
-**Trainee IT Technician and Web Developer, Nikolaos Sfetsios & CO, Athens
+**Trainee IT Technician and Web Administrator, Nikolaos Sfetsios & CO, Athens
 Greece** (02/2011 – 08/2012)
 
 *Learned:*
