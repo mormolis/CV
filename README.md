@@ -90,7 +90,7 @@ Greece** (02/2011 – 08/2012)
 
  - Remote supporting client companies and troubleshooting ensuring that their
 sensitive data are protected
- - Creating websites for the company's needs using JOOMLA CSM
+ - Creating websites for the company's needs using JOOMLA CMS
 
 ***
 
